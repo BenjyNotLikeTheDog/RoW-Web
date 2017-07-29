@@ -1,7 +1,9 @@
-# row-web
+# RoW-Web
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is the repository for the Realm Of Watchers (RoW) Ember WebApp.
+As development progresses, this applicatin will require a copy of RoW-API
+as well as a valid connection to the database to run properly.
+Collaboration instructions follow.
 
 ## Prerequisites
 
